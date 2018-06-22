@@ -5,6 +5,8 @@
 ### Install
 ```git clone https://github.com/KingArmin/proxy```
 
+```cd proxy```
+
 ```sudo apt install composer```
 
 ```composer install```
