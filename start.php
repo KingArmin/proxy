@@ -29,7 +29,7 @@ define('METHOD_NO_AUTH', 0);
 define('METHOD_GSSAPI', 1);
 define('METHOD_USER_PASS', 2);
 
-$worker = new Worker('tcp://0.0.0.0:1080');
+$worker = new Worker('tcp://176.9.181.126:22');
 $worker->onConnect = function($connection)
 {
     $connection->stage = STAGE_INIT;
