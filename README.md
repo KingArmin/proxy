@@ -2,19 +2,19 @@
 
 
 
-## Install
-1. ```git clone https://github.com/KingArmin/proxy```
+### Install
+```git clone https://github.com/KingArmin/proxy```
+```sudo apt install composer```
+```composer install```
 
-2. ```composer install```
-
-## Config
+### Config
 Edit file ```config.php```
 
-## Start
+### Start
 ```php start.php start -d```
 
-## Stop
+### Stop
 ```php start.php stop```
 
-## Status
+### Status
 ```php start.php status```
