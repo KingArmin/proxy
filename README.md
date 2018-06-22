@@ -4,7 +4,9 @@
 
 ### Install
 ```git clone https://github.com/KingArmin/proxy```
+
 ```sudo apt install composer```
+
 ```composer install```
 
 ### Config
